@@ -1,0 +1,9 @@
+D:\ILCode\GuestLogix.WebApi\ClassLibrary1\bin\Debug\netstandard2.0\GuestLogix.Business.Models.deps.json
+D:\ILCode\GuestLogix.WebApi\ClassLibrary1\bin\Debug\netstandard2.0\GuestLogix.Business.Models.dll
+D:\ILCode\GuestLogix.WebApi\ClassLibrary1\bin\Debug\netstandard2.0\GuestLogix.Business.Models.pdb
+D:\ILCode\GuestLogix.WebApi\ClassLibrary1\obj\Debug\netstandard2.0\GuestLogix.Business.Models.csproj.CoreCompileInputs.cache
+D:\ILCode\GuestLogix.WebApi\ClassLibrary1\obj\Debug\netstandard2.0\GuestLogix.Business.Models.AssemblyInfoInputs.cache
+D:\ILCode\GuestLogix.WebApi\ClassLibrary1\obj\Debug\netstandard2.0\GuestLogix.Business.Models.AssemblyInfo.cs
+D:\ILCode\GuestLogix.WebApi\ClassLibrary1\obj\Debug\netstandard2.0\GuestLogix.Business.Models.dll
+D:\ILCode\GuestLogix.WebApi\ClassLibrary1\obj\Debug\netstandard2.0\GuestLogix.Business.Models.pdb
+D:\ILCode\GuestLogix.WebApi\ClassLibrary1\obj\Debug\netstandard2.0\GuestLogix.Business.Models.csprojAssemblyReference.cache
