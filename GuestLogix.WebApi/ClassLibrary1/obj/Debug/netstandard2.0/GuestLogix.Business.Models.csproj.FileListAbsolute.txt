@@ -6,4 +6,3 @@ D:\ILCode\GuestLogix.WebApi\ClassLibrary1\obj\Debug\netstandard2.0\GuestLogix.Bu
 D:\ILCode\GuestLogix.WebApi\ClassLibrary1\obj\Debug\netstandard2.0\GuestLogix.Business.Models.AssemblyInfo.cs
 D:\ILCode\GuestLogix.WebApi\ClassLibrary1\obj\Debug\netstandard2.0\GuestLogix.Business.Models.dll
 D:\ILCode\GuestLogix.WebApi\ClassLibrary1\obj\Debug\netstandard2.0\GuestLogix.Business.Models.pdb
-D:\ILCode\GuestLogix.WebApi\ClassLibrary1\obj\Debug\netstandard2.0\GuestLogix.Business.Models.csprojAssemblyReference.cache
